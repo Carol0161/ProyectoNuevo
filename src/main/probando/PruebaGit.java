@@ -5,7 +5,7 @@ public class PruebaGit {
 		System.out.println("Probando git 2oo");
 		System.out.println("Probando git bis55");
 		System.out.println("Probando git bis55222");
-		System.out.println("Probando git bis88");
+		System.out.println("Probando git bis8855");
 	}
 	
 
