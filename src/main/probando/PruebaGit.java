@@ -11,6 +11,8 @@ public class PruebaGit {
 		System.out.println("voy a provocar conflicto");
 
 		System.out.println("Probando git ");
+		
+		System.out.println("Probando cambios ");
 		}
 	
 
