@@ -9,7 +9,7 @@ public class PruebaGit {
 		System.out.println("Probando git bis885577");
 		/* otro cambio mas*/
 		System.out.println("voy a provocar conflicto");
-		System.out.println("Probando git ");
+		
 
 	}
 	
