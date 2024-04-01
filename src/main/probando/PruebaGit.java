@@ -6,13 +6,9 @@ public class PruebaGit {
 		System.out.println("Probando git bis55");
 		System.out.println("Probando git bis55222");
 
-
 		System.out.println("Probando git bis885577");
-		/* otro cambio*/
-
+		/* otro cambio mas*/
 		System.out.println("Probando git bis88557722");
-
-
 	}
 	
 
